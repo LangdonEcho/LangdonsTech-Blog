@@ -33,7 +33,7 @@ This application is covered by the MIT license.
 <br />
 
 ## Heroku App
-https://dashboard.heroku.com/apps/langdonstech-blog
+https://langdonstech-blog.herokuapp.com/
 
 ## Github
 https://github.com/LangdonEcho/LangdonsTech-Blog
